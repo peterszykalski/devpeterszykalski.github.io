@@ -7,8 +7,13 @@ categories: [why]
 
 ![](Pablo_Guernica.jpg)
 
-```bash
-test ls -la
+```{r}
+1 + 1 
+```
+
+```{bash}
+#!/bin/bash
+echo "Today is " `date`
 ```
 
 ### Guernica by Pablo Picasso
